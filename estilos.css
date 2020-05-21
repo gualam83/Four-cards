@@ -4,8 +4,7 @@
 body{
     background-color: hsl(0, 0%, 98%);
     font-family: 'Poppins', sans-serif;
-    font-size: 15px;
-    flex-direction: ;
+    font-size: 15px;    
 }
 header{
     max-width: 500px;
